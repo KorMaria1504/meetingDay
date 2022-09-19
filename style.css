@@ -54,17 +54,16 @@ body, h1, h2, h3, h4, p, a {
     margin: auto;
     background-color: Black;
     margin-bottom: 0;
-    display: flex;
   }
   
   .card {
     width: 350px;
     margin-bottom: 60px;
-    padding: 45px 45px 70px 45px;
-    display: block;
+    padding: 45px 45px 40px 45px;
     margin-right: 90px;
     background-color: white;
     margin: auto;
+    border: 20px solid black;
   }
   
   .no-right-margin {
@@ -96,7 +95,7 @@ body, h1, h2, h3, h4, p, a {
   
   .footer-author {
     color: white;
-    font-size: 24px;
+    font-size: 40px;
     margin: auto;
     text-align: center;
   }
